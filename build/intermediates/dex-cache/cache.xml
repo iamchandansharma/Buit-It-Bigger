@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\CS\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="C:\Users\CS\AndroidStudioProjects\Udacity\Buit It Bigger\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\jsr305-2.0.1_054a5e74977dbd9a97dfd9cab3d5639cc4187150\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CS\AndroidStudioProjects\Udacity\Buit It Bigger\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\CS\AndroidStudioProjects\Udacity\Buit It Bigger\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\com.android.support-support-v4-25.1.1_1ad1d2d9ad629b855dce3b017279c35f98b123d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CS\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.20.0\2408070b2abec043624d35b35e30450f1b663858\google-http-client-jackson2-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2408070b2abec043624d35b35e30450f1b663858">
+        <dex dex="C:\Users\CS\AndroidStudioProjects\Udacity\Buit It Bigger\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\google-http-client-jackson2-1.20.0_8e96630f12521425edfdc46fc2177546b8178f02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CS\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.20.0\1d086ac5756475ddf451af2e2df6e288d18608ca\google-oauth-client-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d086ac5756475ddf451af2e2df6e288d18608ca">
+        <dex dex="C:\Users\CS\AndroidStudioProjects\Udacity\Buit It Bigger\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\google-oauth-client-1.20.0_20b47417e66fb57b01e63ee6f6cc2fc033f6028a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CS\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\CS\AndroidStudioProjects\Udacity\Buit It Bigger\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\support-annotations-25.1.1_898277a214877e4e15c16b78d47b8387bd3fbfe7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CS\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.20.0\93d82db2bca534960253f43424b2ba9d7638b4d2\google-http-client-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93d82db2bca534960253f43424b2ba9d7638b4d2">
+        <dex dex="C:\Users\CS\AndroidStudioProjects\Udacity\Buit It Bigger\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\google-http-client-1.20.0_0054605154e6ed473b8c611f9848ea423aa63a92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CS\AndroidStudioProjects\Udacity\Buit It Bigger\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\CS\AndroidStudioProjects\Udacity\Buit It Bigger\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_558c98d746177004c908cc69c9a488c02ecfb0f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CS\AndroidStudioProjects\Udacity\Buit It Bigger\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\CS\AndroidStudioProjects\Udacity\Buit It Bigger\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_8e32e0ac105c4ef1fedab339ed502afbed4605ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CS\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="C:\Users\CS\AndroidStudioProjects\Udacity\Buit It Bigger\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\jackson-core-2.1.3_76ab6fc3cd67e45cacc5c13ea17b2b1afac069c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CS\AndroidStudioProjects\Udacity\Buit It Bigger\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\CS\AndroidStudioProjects\Udacity\Buit It Bigger\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_fdfba6f4e703b72932356e03f38aad80bc764ad4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CS\AndroidStudioProjects\Udacity\Buit It Bigger\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\CS\AndroidStudioProjects\Udacity\Buit It Bigger\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_795158a164166fce453065a782a702b49b4bfeb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CS\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.20.0\d3e66209ae9e749b2d6833761e7885f60f285564\google-api-client-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d3e66209ae9e749b2d6833761e7885f60f285564">
+        <dex dex="C:\Users\CS\AndroidStudioProjects\Udacity\Buit It Bigger\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\google-api-client-1.20.0_9d2ca6c14a2394eb56027ba56e000165fee5f222\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CS\AndroidStudioProjects\Udacity\Buit It Bigger\app\build\intermediates\incremental-classes\paid\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="16b187024fcaa1fd2ca43ba272fdabb972a87d3e">
+        <dex dex="C:\Users\CS\AndroidStudioProjects\Udacity\Buit It Bigger\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\instant-run-bootstrap_f311fb885d8f74ecc9a6f6aca1559c96fd8d5fef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CS\AndroidStudioProjects\Udacity\Buit It Bigger\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\CS\AndroidStudioProjects\Udacity\Buit It Bigger\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_2b5497fdf8e9c63b599d3251b2343c0c5d18771b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CS\AndroidStudioProjects\Udacity\Buit It Bigger\app\build\intermediates\incremental-runtime-classes\paid\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="04d2b728b6ee01c0fb48830f7175ef860dc170b9">
+        <dex dex="C:\Users\CS\AndroidStudioProjects\Udacity\Buit It Bigger\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\instant-run_4127db80903cd11a7bc13f0d9d629617dfc0eb04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CS\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\13.0\381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7\guava-jdk5-13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="C:\Users\CS\AndroidStudioProjects\Udacity\Buit It Bigger\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\guava-jdk5-13.0_3325ff646fd6ab3fa84a99cc9e75c77fd54b2b4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CS\AndroidStudioProjects\Udacity\Buit It Bigger\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\CS\AndroidStudioProjects\Udacity\Buit It Bigger\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\com.android.support-support-compat-25.1.1_f4141056131eaa58a3ad53235d933f1cb85bd112\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CS\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.20.0\5673179575c32b69a474334255c3044adf18d40\google-api-client-android-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05673179575c32b69a474334255c3044adf18d40">
+        <dex dex="C:\Users\CS\AndroidStudioProjects\Udacity\Buit It Bigger\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\google-api-client-android-1.20.0_e3e566149983ff2019c7a018c5f739279c462c64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CS\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.20.0\313dc99a7963523871495897ca11aa8472b3c6fd\google-http-client-android-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="313dc99a7963523871495897ca11aa8472b3c6fd">
+        <dex dex="C:\Users\CS\AndroidStudioProjects\Udacity\Buit It Bigger\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\google-http-client-android-1.20.0_b84e552528dd45a7d89f6bab5ac393647922ec00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CS\AndroidStudioProjects\Udacity\Buit It Bigger\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\CS\AndroidStudioProjects\Udacity\Buit It Bigger\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_2ca18f5d965fdd4409c6436c8d96ebff6e928081\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CS\AndroidStudioProjects\Udacity\Buit It Bigger\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\CS\AndroidStudioProjects\Udacity\Buit It Bigger\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_4d35779e88d6f93fb2d2ff979902aa3d8c5fe01b\classes.dex" />
+    </item>
+
+</items>
